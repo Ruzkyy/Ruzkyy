@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hola%2C%20soy%20Ruzky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Cloud%20%26%20Infra%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hola%2C%20soy%20Ruzky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Cloud%20e%20Infra%20Enthusiast&descAlignY=55&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
