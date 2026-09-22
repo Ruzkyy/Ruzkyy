@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hola,%20soy%20Ruzky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Cloud%20%26%20Infra%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hola%2C%20soy%20Ruzky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Cloud%20%26%20Infra%20Enthusiast&descAlignY=55&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
@@ -86,21 +86,11 @@ Laboratorio doméstico de infraestructura montado sobre **VMware**, pensado como
 
 <br>
 
-## 📌 Proyectos destacados
-
-<div align="center">
-
-[![Decorator Pattern](https://github-readme-stats.vercel.app/api/pin/?username=Ruzkyy&repo=Decorator&theme=tokyonight)](https://github.com/Ruzkyy/Decorator)
-
-</div>
-
-<br>
-
 ## 📊 Estadísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruzkyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruzkyy&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzkyy&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
